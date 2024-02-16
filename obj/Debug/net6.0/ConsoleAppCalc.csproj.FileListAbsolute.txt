@@ -1,0 +1,14 @@
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.exe
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.deps.json
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.runtimeconfig.json
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.dll
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.pdb
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.AssemblyInfoInputs.cache
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.AssemblyInfo.cs
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.csproj.CoreCompileInputs.cache
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.dll
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\refint\ConsoleAppCalc.dll
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.pdb
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.genruntimeconfig.cache
+C:\Users\91760\Downloads\Day 4\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\net6.0\ref\ConsoleAppCalc.dll
